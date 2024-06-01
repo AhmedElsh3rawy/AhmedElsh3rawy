@@ -1,4 +1,10 @@
-## Hi, I am Ahmed Elsharawy 👋
+## Hi, I'm Ahmed Elsharawy 👋
+
+Aspiring to be a software engineer with focus on Back-End development
+
+### Programming Languages and Tools
+
+![Languages](https://skillicons.dev/icons?i=c,cpp,js,ts,go,express)
 
 <!--
 **AhmedElsh3rawy/AhmedElsh3rawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
