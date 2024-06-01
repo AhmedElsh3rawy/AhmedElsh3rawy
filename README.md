@@ -4,7 +4,7 @@
 
 #### Programming Languages and Tools
 
-![Languages](https://skillicons.dev/icons?i=c,cpp,js,ts,go,express,linux,postgres,git,github)
+![Languages](https://skillicons.dev/icons?i=c,cpp,go,js,ts,nodejs,express,postgres,git,github,neovim,linux)
 
 <!--
 **AhmedElsh3rawy/AhmedElsh3rawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
