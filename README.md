@@ -2,6 +2,16 @@
 
 ## Data Engineer with interest in Back-End Development and Cloud Computing.
 
+### Contact with me via:
+
+<a href="mailto:ahmedelsharawy117@gmail.com">
+    <img src="./icons/GmailDark.svg" width="40" height="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/a7med-elsh3rawy/">
+    <img src="./icons/Linkedin.svg" width="40" height="40" />
+</a>
+
 ### 🛠️ Tech Stack
 
 #### **Languages**
