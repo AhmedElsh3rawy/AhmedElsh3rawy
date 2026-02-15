@@ -10,7 +10,7 @@
 
 #### **Data Engineering & DBs**
 
-[![Data](https://skillicons.dev/icons?i=postgres,duckdb,mysql)](https://skillicons.dev)
+[![Data](https://skillicons.dev/icons?i=postgres,sqlite,mysql)](https://skillicons.dev)
 
 #### **Infrastructure & Editor**
 
