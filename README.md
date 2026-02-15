@@ -12,6 +12,6 @@
 
 [![Databases](https://skillicons.dev/icons?i=postgres,sqlite,mysql)](https://skillicons.dev)
 
-#### **Infrastructure & Editor**
+#### **Infrastructure & Editors**
 
-[![Tools](https://skillicons.dev/icons?i=docker,linux,neovim)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=docker,linux,git,github,neovim,code)](https://skillicons.dev)
