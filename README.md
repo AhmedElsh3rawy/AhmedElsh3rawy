@@ -6,7 +6,7 @@
 
 #### **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=py,js,ts)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,bash,js,ts)](https://skillicons.dev)
 
 #### **Data Engineering & DBs**
 
