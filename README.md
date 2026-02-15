@@ -8,9 +8,9 @@
 
 [![Languages](https://skillicons.dev/icons?i=py,bash,js,ts)](https://skillicons.dev)
 
-#### **Data Engineering & DBs**
+#### **Databases**
 
-[![Data](https://skillicons.dev/icons?i=postgres,sqlite,mysql)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgres,sqlite,mysql)](https://skillicons.dev)
 
 #### **Infrastructure & Editor**
 
