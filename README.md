@@ -8,11 +8,15 @@
 
 #### **Languages & Databases**
 
-<a href="https://www.python.org"><img src="./icons/Python.svg" width="40" height="40" alt="Python" /></a>
+<a href="https://www.python.org/"><img src="./icons/Python.svg" width="40" height="40" alt="Python" /></a>
 &nbsp;
 <a href="https://www.gnu.org/software/bash/"><img src="./icons/Bash.svg" width="40" height="40" alt="Bash" /></a>
 &nbsp;
 <a href="https://www.w3schools.com/sql/"><img src="./icons/Sql.svg" width="40" height="40" alt="SQL" /></a>
+&nbsp;
+<a href="https://www.postgresql.org/"><img src="./icons/PostgreSQL.svg" width="40" height="40" alt="PostgreSQL" /></a>
+&nbsp;
+<a href="https://www.mysql.com/"><img src="./icons/Mysql.svg" width="40" height="40" alt="MySQL" /></a>
 
 #### **Data Engineering Tools**
 
@@ -22,15 +26,15 @@
 
 #### **Infrastructure & Editors**
 
-<a href="https://www.docker.com"><img src="./icons/DockerIcon.svg" width="40" height="40" alt="Docker" /></a>
+<a href="https://www.docker.com/"><img src="./icons/DockerIcon.svg" width="40" height="40" alt="Docker" /></a>
 &nbsp;
-<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html"><img src="./icons/Linux.svg" width="40" height="40" alt="Linux" /></a>
+<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html/"><img src="./icons/Linux.svg" width="40" height="40" alt="Linux" /></a>
 &nbsp;
-<a href="https://git-scm.com"><img src="./icons/Git.svg" width="40" height="40" alt="Git" /></a>
+<a href="https://git-scm.com/"><img src="./icons/Git.svg" width="40" height="40" alt="Git" /></a>
 &nbsp;
-<a href="https://github.com"><img src="./icons/Github.svg" width="40" height="40" alt="GitHub" /></a>
+<a href="https://github.com/"><img src="./icons/Github.svg" width="40" height="40" alt="GitHub" /></a>
 &nbsp;
-<a href="https://neovim.io"><img src="./icons/Neovim.svg" width="40" height="40" alt="Neovim" /></a>
+<a href="https://neovim.io/"><img src="./icons/Neovim.svg" width="40" height="40" alt="Neovim" /></a>
 
 ### Contact with me via:
 
