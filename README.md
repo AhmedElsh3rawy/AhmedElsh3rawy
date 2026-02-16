@@ -8,11 +8,11 @@
 
 #### **Languages & Databases**
 
-<a><img src="./icons/Python.svg" width="40" height="40" alt="Python" /></a>
+<a href="https://www.python.org"><img src="./icons/Python.svg" width="40" height="40" alt="Python" /></a>
 &nbsp;
-<a><img src="./icons/Bash.svg" width="40" height="40" alt="Bash" /></a>
+<a href="https://www.gnu.org/software/bash/"><img src="./icons/Bash.svg" width="40" height="40" alt="Bash" /></a>
 &nbsp;
-<a><img src="./icons/Sql.svg" width="40" height="40" alt="SQL" /></a>
+<a href="https://www.w3schools.com/sql/"><img src="./icons/Sql.svg" width="40" height="40" alt="SQL" /></a>
 
 #### **Data Engineering Tools**
 
@@ -22,15 +22,15 @@
 
 #### **Infrastructure & Editors**
 
-<a><img src="./icons/DockerIcon.svg" width="40" height="40" alt="Docker" /></a>
-
-<a><img src="./icons/Linux.svg" width="40" height="40" alt="Linux" /></a>
+<a href="https://www.docker.com"><img src="./icons/DockerIcon.svg" width="40" height="40" alt="Docker" /></a>
 &nbsp;
-<a><img src="./icons/Git.svg" width="40" height="40" alt="Git" /></a>
+<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html"><img src="./icons/Linux.svg" width="40" height="40" alt="Linux" /></a>
 &nbsp;
-<a><img src="./icons/Github.svg" width="40" height="40" alt="GitHub" /></a>
+<a href="https://git-scm.com"><img src="./icons/Git.svg" width="40" height="40" alt="Git" /></a>
 &nbsp;
-<a><img src="./icons/Neovim.svg" width="40" height="40" alt="Neovim" /></a>
+<a href="https://github.com"><img src="./icons/Github.svg" width="40" height="40" alt="GitHub" /></a>
+&nbsp;
+<a href="https://neovim.io"><img src="./icons/Neovim.svg" width="40" height="40" alt="Neovim" /></a>
 
 ### Contact with me via:
 
