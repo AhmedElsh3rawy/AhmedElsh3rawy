@@ -7,4 +7,4 @@
 ### Contact with me via:
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ahmedelsharawy117@gmail.com)
-[![Linkedin](https://skillicons.dev/icons?i=gmail)](https://www.linkedin.com/in/a7med-elsh3rawy/)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/a7med-elsh3rawy/)
