@@ -12,7 +12,7 @@
     <img src="./icons/Linkedin.svg" width="40" height="40" />
 </a>
 
-### 🛠️ Tech Stack
+### Technologies
 
 #### **Languages**
 
