@@ -1,14 +1,8 @@
 # Hi, I'm Ahmed Elsharawy 👋
 
-## **Data Engineer**
+## Data Engineer
 
-### Building the robust infrastructure that **ensures** data is clean, reliable, and ready for scale. I specialize in designing high-performance systems and automated ETL/ELT pipelines that turn raw data into a foundational asset.
-
-### Contact with me via:
-
-<a href="mailto:ahmedelsharawy117@gmail.com"><img src="./icons/GmailDark.svg" width="40" height="40" alt="Gmail" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/a7med-elsh3rawy/"><img src="./icons/Linkedin.svg" width="40" height="40" alt="Linkedin" /></a>
+**Building the robust infrastructure that **ensures** data is clean, reliable, and ready for scale. I specialize in designing high-performance systems and automated ETL/ELT pipelines that turn raw data into a foundational asset.**
 
 ### Technologies
 
@@ -29,3 +23,9 @@
 #### **Infrastructure & Editors**
 
 [![Tools](https://skillicons.dev/icons?i=docker,linux,git,github,neovim,code)](https://skillicons.dev)
+
+### Contact with me via:
+
+<a href="mailto:ahmedelsharawy117@gmail.com"><img src="./icons/GmailDark.svg" width="40" height="40" alt="Gmail" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/a7med-elsh3rawy/"><img src="./icons/Linkedin.svg" width="40" height="40" alt="Linkedin" /></a>
