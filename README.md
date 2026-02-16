@@ -22,7 +22,7 @@
 
 <a href="https://airflow.apache.org/"><img src="./icons/Apacheairflow.svg" width="40" height="40" alt="apache airflow" /></a>
 &nbsp;
-<a href="www.getdbt.com/"><img src="./icons/DbtIcon.svg" width="40" height="40" alt="dbt" /></a>
+<a href="https://getdbt.com/"><img src="./icons/DbtIcon.svg" width="40" height="40" alt="dbt" /></a>
 
 #### **Infrastructure & Editors**
 
