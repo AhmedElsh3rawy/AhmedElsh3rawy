@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed
 
-## Data Engineer with interest in Back-End Development and Cloud Computing.
+## Data Engineer with interest in Back-End Development. My focus is building the robust Infrastructure that insures data is clean, reliable and ready for scale.
 
 ### Contact with me via:
 
