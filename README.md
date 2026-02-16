@@ -7,7 +7,7 @@
 <a href="mailto:ahmedelsharawy117@gmail.com">
     <img src="./icons/GmailDark.svg" width="40" height="40" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/a7med-elsh3rawy/">
     <img src="./icons/Linkedin.svg" width="40" height="40" />
 </a>
