@@ -14,7 +14,7 @@
 &nbsp;
 <a href="https://www.w3schools.com/sql/"><img src="./icons/Sql.svg" width="40" height="40" alt="SQL" /></a>
 &nbsp;
-<a href="https://www.postgresql.org/"><img src="./icons/PostgreSQL.svg" width="40" height="40" alt="PostgreSQL" /></a>
+<a href="https://www.postgresql.org/"><img src="./icons/Postgres.svg" width="40" height="40" alt="PostgreSQL" /></a>
 &nbsp;
 <a href="https://www.mysql.com/"><img src="./icons/Mysql.svg" width="40" height="40" alt="MySQL" /></a>
 
