@@ -6,13 +6,9 @@
 
 ### Technologies
 
-#### **Languages**
+#### **Languages & Databases**
 
-[![Languages](https://skillicons.dev/icons?i=py,bash,js,ts)](https://skillicons.dev)
-
-#### **Databases**
-
-[![Databases](https://skillicons.dev/icons?i=postgres,sqlite,mysql)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,bash,js,ts,postgres,mysql)](https://skillicons.dev)
 
 #### **Data Engineering Tools**
 
