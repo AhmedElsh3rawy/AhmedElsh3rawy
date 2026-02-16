@@ -4,13 +4,9 @@
 
 ### Contact with me via:
 
-<a href="mailto:ahmedelsharawy117@gmail.com">
-    <img src="./icons/GmailDark.svg" width="40" height="40" alt="gmail" />
-</a>
+<a href="mailto:ahmedelsharawy117@gmail.com"><img src="./icons/GmailDark.svg" width="40" height="40" alt="gmail" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/a7med-elsh3rawy/">
-    <img src="./icons/Linkedin.svg" width="40" height="40" alt="linkedin" />
-</a>
+<a href="https://www.linkedin.com/in/a7med-elsh3rawy/"><img src="./icons/Linkedin.svg" width="40" height="40" alt="linkedin" /></a>
 
 ### Technologies
 
@@ -24,13 +20,9 @@
 
 #### **Data Engineering Tools**
 
-<a href="https://airflow.apache.org/">
-    <img src="./icons/Apacheairflow.svg" width="40" height="40" alt="apache airflow" />
-</a>
+<a href="https://airflow.apache.org/"><img src="./icons/Apacheairflow.svg" width="40" height="40" alt="apache airflow" /></a>
 &nbsp;
-<a href="https://getdbt.com/">
-    <img src="./icons/DbtIcon.svg" width="40" height="40" alt="dbt" />
-</a>
+<a href="www.getdbt.com/"><img src="./icons/DbtIcon.svg" width="40" height="40" alt="dbt" /></a>
 
 #### **Infrastructure & Editors**
 
