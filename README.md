@@ -1,6 +1,8 @@
-# Hi, I'm Ahmed
+# Hi, I'm Ahmed Elsharawy 👋
 
-## Data Engineer with interest in Back-End Development. My focus is building the robust Infrastructure that insures data is clean, reliable and ready for scale.
+**Data Engineer**
+Building the robust infrastructure that **ensures** data is clean, reliable, and ready for scale.
+I specialize in designing high-performance systems and automated ETL/ELT pipelines that turn raw data into a foundational asset.
 
 ### Contact with me via:
 
