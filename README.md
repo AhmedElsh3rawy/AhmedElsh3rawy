@@ -8,7 +8,11 @@
 
 #### **Languages & Databases**
 
-[![Languages](https://skillicons.dev/icons?i=py,bash,js,ts,postgres,mysql)](https://skillicons.dev)
+<a><img src="./icons/Python.svg" width="40" height="40" alt="Python" /></a>
+&nbsp;
+<a><img src="./icons/Sql.svg" width="40" height="40" alt="SQL" /></a>
+&nbsp;
+<a><img src="./icons/Bash.svg" width="40" height="40" alt="Bash" /></a>
 
 #### **Data Engineering Tools**
 
